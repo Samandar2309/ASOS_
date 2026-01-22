@@ -1,0 +1,8 @@
+WARNING 2026-01-05 22:27:36,669 log 12216 16204 Bad Request: /accounts/login/
+WARNING 2026-01-05 22:27:36,670 log 12216 16204 "POST /accounts/login/ HTTP/1.1" 400 37
+WARNING 2026-01-05 22:27:38,251 log 12216 16204 Bad Request: /accounts/login/
+WARNING 2026-01-05 22:27:38,251 log 12216 16204 "POST /accounts/login/ HTTP/1.1" 400 37
+WARNING 2026-01-05 22:42:20,556 log 13932 16368 Bad Request: /accounts/login/
+WARNING 2026-01-05 22:42:20,557 log 13932 16368 "POST /accounts/login/ HTTP/1.1" 400 45
+WARNING 2026-01-05 22:42:28,159 log 13932 7996 Bad Request: /accounts/login/
+WARNING 2026-01-05 22:42:28,161 log 13932 7996 "POST /accounts/login/ HTTP/1.1" 400 45
